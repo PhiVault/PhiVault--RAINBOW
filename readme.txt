@@ -5,8 +5,8 @@
  for malicious activities.
 
  Note : - 
-          The Powerful Simple tool once run , had massive
-    damage of file and program include system use at your
+          This Powerful Simple tool once run , had massive
+    damage in file and program include system use at your
     own risk.
 
 Thank You.
