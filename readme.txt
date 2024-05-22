@@ -8,8 +8,10 @@
           This Powerful Simple tool once run , had massive
     damage in file and program include system use at your
     own risk.
+    No antivirus include defender can intercept it.
+
 
 Thank You.
-Be Updated On Our Page.
+Be Updated On Our Page.  (Linux Version Launch Soon)
 
 Duck..
