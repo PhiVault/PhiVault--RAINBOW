@@ -12,6 +12,6 @@
 
 
 Thank You.
-Be Updated On Our Page.  (Linux Version Launch Soon)
+Be Updated On Our Page.  (Linux Version Will be Launch Soon)
 
 Duck..
