@@ -9,7 +9,7 @@ Use Password ' unlock ' to view the archive content.
 Duck doesn't take any liability for using our product for malicious activities.
 
 Note : - 
-This Powerful yet simple tool once run , had massive damage in file and program include system, use at your own risk.
+This Powerful yet simple tool once run , had massive damage in files and programs include system, use at your own risk.
 No antivirus include defender can intercept it.
 
 Thank You.
