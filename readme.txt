@@ -4,7 +4,7 @@ Support Env - Win11
 
 Rainbow Edition!
 
-This is a product of duck corporation.
+This is a product of Duck Corporation.
 Use Password ' unlock ' to view the archive content.
 Duck doesn't take any liability for using our product for malicious activities.
 
