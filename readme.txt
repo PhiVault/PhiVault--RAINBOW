@@ -1,8 +1,8 @@
 >> Hey there !
 
-Support Env - Win11
+This is the Rainbow Edition!
 
-Rainbow Edition!
+Support Env - Win11
 
 This is a product of Duck Corporation.
 Use Password ' unlock ' to view the archive content.
