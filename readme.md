@@ -1,4 +1,4 @@
-### **Colorful Windows 11 Malware (Educational Purpose Only)**
+### 🌈 **Colorful Windows 11 Malware (Educational Purpose Only)**
 🚨 **Disclaimer: This project is for educational and research purposes only. The author does not take any responsibility for misuse. Do not use this software for malicious activities.**  
 
 ## 📌 **Overview**  
